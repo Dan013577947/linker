@@ -14,6 +14,7 @@ function App() {
 
     fetchSocialMediaContents()
   },[])
+  
 
   return (
     <Routes>
